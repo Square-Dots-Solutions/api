@@ -24,4 +24,8 @@ class Database{
     }
 }
 ?>
+<<<<<<< HEAD
 1
+=======
+hi karthi,4clkbreak polam
+>>>>>>> cb7817bbaba295a354eb7b6b17bff566e24bccff
